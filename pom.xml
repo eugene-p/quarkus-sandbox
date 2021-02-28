@@ -3,9 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.yp</groupId>
-  <artifactId>camel-route-new</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <artifactId>cool-beans</artifactId>
+  <version>0.1.2</version>
   <properties>
+    <app.version>${project.version}</app.version>
+    <app.name>${project.artifactId}</app.name>
     <compiler-plugin.version>3.8.1</compiler-plugin.version>
     <maven.compiler.parameters>true</maven.compiler.parameters>
     <maven.compiler.source>11</maven.compiler.source>

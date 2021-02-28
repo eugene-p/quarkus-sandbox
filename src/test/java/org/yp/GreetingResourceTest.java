@@ -17,5 +17,4 @@ public class GreetingResourceTest {
              .statusCode(200)
              .body(is("pong"));
     }
-
 }
